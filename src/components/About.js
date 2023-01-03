@@ -6,6 +6,7 @@ export const About = () => {
     <div>
      <h2> This is Prathima page.</h2>
     </div>
+    
   )
 }
 export default About
