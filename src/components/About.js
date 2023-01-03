@@ -5,8 +5,7 @@ export const About = () => {
   return (
     <div>
      <h2> This is Prathima page.</h2>
-    </div>
-    
+    </div>    
   )
 }
 export default About
